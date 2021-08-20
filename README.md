@@ -25,4 +25,5 @@
 <strong>주의 사항:</strong> 'git clone' 방식으로 받아야 정상 작동됨<br><br>
 <strong>구현 예정:</strong> ejs방식으로 디자인, 글 목록, 댓글, 파일 첨부 등등
 
-![screenshot](https://shacoding.com/image_directory/ubi_capture.PNG)
+![screenshot](https://shacoding.com/image_directory/ubi_forum_1.PNG)<br><br>
+![screenshot](https://shacoding.com/image_directory/ubi_forum_2.PNG)
