@@ -22,7 +22,6 @@
 2. 우비 암호화
 - 소개: https://shacoding.com/2021/01/29/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94-prototype/
 
-<strong>주의 사항:</strong> 'git clone' 방식으로 받아야 정상 작동됨<br><br>
 <strong>구현 예정:</strong> ejs방식으로 디자인, 글 목록, 댓글, 파일 첨부 등등
 
 ![screenshot](https://shacoding.com/image_directory/ubi_capture.PNG)
