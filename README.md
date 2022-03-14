@@ -7,8 +7,6 @@
 2. <strong>'우비-비밀게시판'</strong>은 비밀스럽게 글을 작성할 수 있는 공간이며 암호화가 진행됩니다!
 (글 조회 시 우비코드 입력이 필수!!)
 
-그럼 즐거운 게시 활동되세요~~~!!
-
 <br>
 
 <strong>현재 버전:</strong> Beta (Ver.0.0.1) 2021-08-08 (sun)<br>
@@ -23,7 +21,7 @@
 - 소개: https://shacoding.com/2021/01/29/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94-prototype/
 
 <strong>주의 사항:</strong> 'git clone' 방식으로 받아야 정상 작동됨<br><br>
-<strong>구현 예정:</strong> ejs방식으로 디자인, 글 목록, 댓글, 파일 첨부 등등
+<strong>구현 예정:</strong> React를 이용한 디자인, 글 목록, 댓글, 파일 첨부 등등
 
 ![screenshot](https://shacoding.com/image_directory/ubi_forum_1.PNG)<br><br>
 ![screenshot](https://shacoding.com/image_directory/ubi_forum_2.PNG)
